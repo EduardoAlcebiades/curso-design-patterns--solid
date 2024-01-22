@@ -71,4 +71,4 @@ Os módulos de alto e baixo nível são relativos com a interdependência entre 
 Os módulos de alto nível não podem depender diretamente de um módulo de baixo nível, mas apenas de uma abstração que referencia este módulo, que é controlada geralmente por uma fábrica ou injeção.
 
 <img src="public/images/DIP-high-level.png" style='max-width: 450px;'>
-<img src="public/images/DIP-low-level-2x.png" style='max-width: 450px;'>
+<img src="public/images/DIP-low-level.png" style='max-width: 450px;'>
